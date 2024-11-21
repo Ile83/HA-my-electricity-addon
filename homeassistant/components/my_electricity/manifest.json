@@ -1,0 +1,13 @@
+{
+  "domain": "my_electricity",
+  "name": "Electricity Usage",
+  "codeowners": ["@Ile83"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/my_electricity",
+  "homekit": {},
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
